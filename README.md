@@ -2,6 +2,8 @@
 
 Zakupoholik is an application designed to streamline the process of ordering products from suppliers. It is currently used by the online store [guiltfree.pl](https://guiltfree.pl). By analyzing sales data over a specified period, the application calculates the required quantities of each product to meet demand for a given number of days.
 
+🎥 Check out this video demonstration: [Zakupoholik Demo](https://www.loom.com/share/cbf8bd1f25de42a5a802d840c9e0f067?sid=f544035c-2ec3-4806-84da-bea29c9c8162)
+
 ## How Zakupoholik Works
 
 1. A **guiltfree.pl** employee selects a supplier or a brand they wish to order from.
@@ -17,6 +19,8 @@ This system significantly improves efficiency and accuracy in restocking decisio
 ---
 
 ## Case Study: Optimizing Data Synchronization
+
+🎥 Check out this video demonstration: [Zakupoholik Fixed](https://www.loom.com/share/f60eaaa747284580b2ca0d37beaea1b3?sid=70b17c04-be04-4d19-9ef1-78a56e84791e)
 
 ### Initial Solution (Before Optimization)
 
@@ -57,7 +61,7 @@ To resolve these issues, we implemented a **real-time data retrieval system** us
 
 ## Watch Zakupoholik in Action
 
-🎥 Check out this video demonstration: [Zakupoholik Demo](link-to-video)
+🎥 Check out this video demonstration: [Zakupoholik Demo](https://www.loom.com/share/cbf8bd1f25de42a5a802d840c9e0f067?sid=f544035c-2ec3-4806-84da-bea29c9c8162)
 
 ---
 
